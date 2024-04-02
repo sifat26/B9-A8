@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co/RHpB076/book-cover-To-Kill-a-Mockingbird-many-1961.webp",
+    "review": "To Kill a Mockingbird by Harper Lee is a timeless classic that confronts issues of racial injustice and moral integrity in 1930s Alabama. Through the eyes of young Scout Finch, it offers profound insights into empathy, compassion, and the complexities of human nature, leaving an indelible mark on readers worldwide.",
+    "totalPages": 336,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["Classics", "Social Issues"],
+    "publisher": "J. B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 2,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co/yhM7Ch8/612-ADI-BVl-L-AC-UF1000-1000-QL80.jpg",
+    "review": "George Orwell is a gripping biography by Gordon Bowker, offering a revealing insight into the life of the acclaimed author. From Orwell's early years to his literary achievements and political convictions, Bowker presents a comprehensive portrait of a complex figure whose work continues to resonate in contemporary society.",
+    "totalPages": 328,
+    "rating": 4.7,
+    "category": "Science Fiction",
+    "tags": ["Dystopian", "Political"],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 3,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co/W0WTBVn/The-Great-Gatsby-Cover-1925-Retouched.jpg",
+    "review": "The Great Gatsby is a timeless masterpiece by F. Scott Fitzgerald, delving into the roaring twenties with a tale of love, decadence, and the American Dream. Through lavish prose and complex characters, Fitzgerald captures the essence of an era, weaving a tragic narrative that resonates with readers across generations.",
+    "totalPages": 180,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": ["Classics", "Romance"],
+    "publisher": "Charles Scribner's Sons",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 4,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://i.ibb.co/mJ1Q6CF/MV5-BMTA1-NDQ3-NTcy-OTNe-QTJe-QWpw-Z15-Bb-WU3-MDA0-Mz-A4-Mz-E-V1.jpg",
+    "review": "Pride and Prejudice is a timeless classic by Jane Austen, weaving wit and romance in 19th-century England. The spirited Elizabeth Bennet navigates societal expectations and her initial disdain for the enigmatic Mr. Darcy. Austen's keen social commentary and memorable characters make this novel a captivating exploration of love and class.",
+    "totalPages": 279,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Classics", "Romance"],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  },
+  {
+    "bookId": 5,
+    "bookName": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "image": "https://i.ibb.co/PM8yHcn/88c8fe011aa2683f66e43efe9922dafc.jpg",
+    "review": "Harry Potter and the Philosopher's Stone by J.K. Rowling is an enchanting tale that introduces readers to the magical world of Hogwarts School of Witchcraft and Wizardry. With memorable characters, captivating plot twists, and themes of friendship and bravery, it's a timeless classic that continues to captivate readers of all ages.",
+    "totalPages": 223,
+    "rating": 4.8,
+    "category": "Fantasy",
+    "tags": ["Children's", "Magic"],
+    "publisher": "Bloomsbury",
+    "yearOfPublishing": 1997
+  },
+  {
+    "bookId": 6,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://i.ibb.co/vvfzTjc/The-Catcher-in-the-Rye-1951-first-edition-cover.jpg",
+    "review": "The Catcher in the Rye by J.D. Salinger captivates with its raw portrayal of teenage angst and alienation. Holden Caulfield's rebellious voice echoes through the pages, grappling with society's phoniness. Salinger's masterful prose delves into themes of identity, innocence, and the quest for authenticity, leaving an indelible mark on literature.",
+    "totalPages": 224,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": ["Classics", "Coming-of-Age"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  }
+]

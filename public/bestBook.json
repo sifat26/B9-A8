@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": "1",
+    "bookNames": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy8l38c0Fl7GdwmhHF0DQNH51xTyvFDrfIfk71v7-KEUj5g-zn",
+    "review": "The Silent Patient is a gripping psychological thriller that keeps you on the edge of your seat until the very end. With its masterful storytelling and unexpected twists, Alex Michaelides takes the reader on a thrilling journey into the mind of a silent patient and the psychiatrist determined to uncover the truth. The characters are well-developed, the pacing is perfect, and the ending will leave you stunned.",
+    "totalPages": 336,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["Suspense", "Psychological"],
+    "publisher": "Celadon Books",
+    "yearOfPublishing": 2019
+  },
+  {
+    "bookId": "2",
+    "bookNames": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNdsdou73_PyAGvjjq_DzQwTH9lhOJ6jQ2MlZnwgDBT7-jNqoR",
+    "review": "Where the Crawdads Sing is a mesmerizing tale of mystery, romance, and the beauty of nature. Delia Owens' exquisite prose paints a vivid picture of the marshlands of North Carolina and the resilient young woman who calls it home. With its captivating storyline and unforgettable characters, this novel will stay with you long after you turn the final page.",
+    "totalPages": 384,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": ["Mystery", "Romance"],
+    "publisher": "G.P. Putnam's Sons",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": "3",
+    "bookNames": "Educated",
+    "author": "Tara Westover",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Educated_%28Tara_Westover%29.png",
+    "review": "Educated is a powerful memoir that chronicles Tara Westover's journey from growing up in a strict and isolated household in rural Idaho to earning a PhD from Cambridge University. With raw honesty and emotional depth, Westover shares her struggles and triumphs as she breaks away from her past and forges her own path. This book is a testament to the importance of education, resilience, and the pursuit of knowledge.",
+    "totalPages": 352,
+    "rating": 4.6,
+    "category": "Memoir",
+    "tags": ["Education", "Family"],
+    "publisher": "Random House",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": "4",
+    "bookNames": "Circe",
+    "author": "Madeline Miller",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565909496i/35959740.jpg",
+    "review": "Circe is a captivating retelling of the mythological story of Circe, the powerful sorceress from Homer's Odyssey. Madeline Miller breathes new life into this ancient tale, offering a fresh perspective and compelling narrative voice. With its richly imagined world and complex characters, Circe is a spellbinding read that will enchant both fans of mythology and literary fiction alike.",
+    "totalPages": 400,
+    "rating": 4.4,
+    "category": "Fantasy",
+    "tags": ["Mythology", "Greek"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": "5",
+    "bookNames": "Becoming",
+    "author": "Michelle Obama",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Becoming_%28Michelle_Obama_book%29.jpg",
+    "review": "Becoming is a deeply personal and inspiring memoir that takes readers on a journey through Michelle Obama's life, from her childhood in Chicago to her years in the White House as the First Lady of the United States. With grace, humor, and candor, Obama reflects on her experiences, struggles, and triumphs, offering valuable insights into her role as a mother, a wife, and a leader. This book is a testament to the power of resilience, hope, and the importance of staying true to oneself.",
+    "totalPages": 448,
+    "rating": 4.8,
+    "category": "Memoir",
+    "tags": ["Autobiography", "Politics"],
+    "publisher": "Crown Publishing Group",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": "6",
+    "bookNames": "The Dutch House",
+    "author": "Ann Patchett",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/The_Dutch_House_%28Patchett_novel%29.png",
+    "review": "The Dutch House is a beautifully written novel that explores themes of family, loss, and redemption. Ann Patchett's masterful storytelling draws readers into the lives of the Conroy family and the mysterious Dutch House that holds both their fondest memories and deepest wounds. With its richly drawn characters and evocative prose, this book is a poignant meditation on the bonds that tie us to our past and the power of forgiveness.",
+    "totalPages": 352,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": ["Family", "Historical"],
+    "publisher": "Harper",
+    "yearOfPublishing": 2019
+  }
+]
